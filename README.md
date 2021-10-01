@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kemalariboga
+- 👋 Hi, I’m Kemal Burak Ariboga
 - 👀 I’m interested in Machine Learning
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: https://www.linkedin.com/in/kemalburakariboga/
