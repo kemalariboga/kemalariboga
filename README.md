@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalariboga&label=Profile%20views&color=0e75b6&style=flat" alt="kemalariboga" /> </p>
 
-- 🔭 I’m currently working at **https://presify.ai/**
+- 🔭 I’m currently working at **https://www.countercheck.com/**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
