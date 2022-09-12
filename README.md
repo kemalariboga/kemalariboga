@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Hi 👋, I'm Kemal</h3>
 <h3 align="left">A passionate data scientist from Turkey and have a deep interest in machine learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalariboga&label=Profile%20views&color=0e75b6&style=flat" alt="kemalariboga" /> </p>
-
 - 🔭 I’m currently working at **https://www.countercheck.com/**
 
 - 👯 I’m looking to collaborate on **ML projects**
@@ -24,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.hackerrank.com/kemalariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kemalariboga" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemalariboga&label=Profile%20views&color=0e75b6&style=flat" alt="kemalariboga" /> </p>
