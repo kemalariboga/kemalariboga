@@ -3,8 +3,8 @@ kemalariboga/kemalariboga is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Hi 👋, I'm Kemal</h3>
-<h3 align="left">A passionate data scientist from Turkey and have a deep interest in machine learning.</h3>
+<h3 align="left">Hi 👋, I'm Kemal.</h3>
+<h3 align="left">I have a keen interest in deep learning.</h3>
 
 - 🔭 I’m currently working at **https://www.countercheck.com/**
 
