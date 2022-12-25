@@ -2,11 +2,6 @@
 kemalariboga/kemalariboga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<h3 align="left">Hi 👋, I'm Kemal.</h3>
-<h3 align="left">Have a keen interest in artificial intelligence.</h3>
-<h3 align="left">Currently working at https://www.countercheck.com/</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kemalburakariboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemalburakariboga" height="30" width="40" /></a>
