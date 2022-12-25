@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="left">Hi 👋, I'm Kemal.</h3>
-<h3 align="left">Have a keen interest in machine learning and deep learning.</h3>
+<h3 align="left">Have a keen interest in artificial intelligence.</h3>
 <h3 align="left">Currently working at https://www.countercheck.com/</h3>
 
 <h3 align="left">Connect with me:</h3>
